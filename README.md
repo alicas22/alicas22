@@ -27,6 +27,7 @@ Here are some of the things I enjoy outside of coding:
 
 - LinkedIn: https://www.linkedin.com/in/anthony-licas-7b675061/
 - Wellfound / AngelList: https://angel.co/u/anthony-licas
+- email: anthonylicas@gmail.com
 
 Thank you for visiting my profile! I am always looking for new opportunities to learn and grow as a developer, so please feel free to reach out to me with any questions or just to chat.
 
