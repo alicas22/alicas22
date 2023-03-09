@@ -18,7 +18,7 @@ I'm Anton, a software developer with a background in mortgage and software sales
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-Here are some of the things I enjoy outside of coding:
+##Here are some of the things I enjoy outside of coding:
 
 - Lifting Weights 🏋️‍♂️
 - Off Roading 🚙
